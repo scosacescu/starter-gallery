@@ -6,5 +6,6 @@ Team membership:  Stephanie Cosacescu (Captain) & HM (Mate)
 
 * Updated Changelog
 * Converted the static website to webapp and added `gallery` and `about` controllers and view
+*Converted the Trivial CI to basic webapp. not routing pages properly.
 
 
